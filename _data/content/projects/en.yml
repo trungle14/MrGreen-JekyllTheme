@@ -25,8 +25,8 @@ page_data:
   list:
     # example
     - type: id_example
-      project_name: "Example Project"
-      project_excerpt: "Examples"
+      project_name: "Inventory Management and Demand Forecasting by Google Cloud Platform"
+      project_excerpt: "Role: Technical Lead"
       img: ":project1_thumb.jpg"
       img_title: "img title1"
       date: "2021-03-13"
