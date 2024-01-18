@@ -31,145 +31,67 @@ page_data:
       img_title: "img title1"
       date: "2021-03-13"
       post: |
-        # Examples
 
-        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+# Abstract: The project introduces a comprehensive solution for enhancing inventory management in the e-commerce domain. Leveraging the robust capabilities of Google Cloud Platform, our system integrates Big Data and Machine Learning to optimize inventory levels. The core of our analytics pipeline resides in Google BigQuery, where data summarization and analysis take place, providing dynamic insights into inventory availability and accurate demand forecasting. The culmination of our efforts is a user-friendly dashboard developed on Google's Looker Studio. This platform empowers end-users and clients to intuitively visualize product inventory counts and forecasts, facilitating informed decision-making and efficient inventory control.
 
-        ### Headings (centered)
-        {:data-align="center"}
+# Dataset 
 
-        # Heading 1
+The [eCommerce dataset](https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?project=galvanic-portal-404814) contains information about customers, products, orders, logistics, web events and digital marketing campaigns. The contents of this dataset are synthetic, and are provided to industry practitioners for the purpose of product discovery, testing, and evaluation.
 
-        ## Heading 2
+# Improve inventory management with sales forecasting deployed by BigQuery ML and AI Platform Training & Prediction
 
-        ### Heading 3
+In the e-commerce sector, effectively managing inventory is crucial: you need to maintain the right balance, ensuring you have enough stock without overstocking. For large e-commerce companies, this involves managing inventory levels for a vast array of products.
 
-        #### Heading 4
+To guide inventory decisions, historical sales data is invaluable. By analyzing past customer purchase patterns, you can predict future buying trends, helping to determine optimal inventory levels. Time series forecasting is an essential tool in this process.
 
-        ##### Heading 5
+For data science teams supporting e-commerce inventory management, this entails generating numerous forecasts and managing the infrastructure required for machine learning (ML) model development and deployment. However, by utilizing BigQuery ML in Google Cloud Platform (GCP), you can streamline this process. BigQuery ML allows you to train, evaluate, and deploy ML models directly using SQL statements, bypassing the need for a separate ML infrastructure. This approach can significantly save time and resources in your e-commerce sales forecasting project.
 
-        ###### Heading 6
 
-        ***
 
-        ### Paragraphs
+# Set up time series modeling works in BigQuery ML
+A time series model with BigQuery ML, multiple components are involved, including an Autoregressive integrated moving average (ARIMA) model. For this project, The BigQuery ML model creation pipeline uses the following components:
 
-        #### Paragraph
+Pre-processing: Automatic cleaning adjustments to the input time series, inspect the most appropriate training data which addresses issues like missing values, duplicated timestamps. There are multiple levels we can also consider for time series, easily customized function on demand:
+1. Product category level
+2. Specific products level
+3. Store level
 
-        **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+Holiday effects: Time series modeling in BigQuery ML can also account for holiday effects. By default, holiday effects modeling is disabled. But since this data is from the United States, and the data includes a minimum one year of daily data, you can also specify an optional HOLIDAY_REGION. 
+Seasonal and trend decomposition using the Seasonal and Trend decomposition using Loess (STL) algorithm. Seasonality extrapolation using the double exponential smoothing (ETS) algorithm.
+Trend modeling using the ARIMA model and the auto.ARIMA algorithm for automatic hyper-parameter tuning. In auto.ARIMA, dozens of candidate models are trained and evaluated in parallel. The best model comes with the lowest Akaike information criterion (AIC).
+We can use a single SQL statement to train the model to forecast a single product or to forecast multiple products at the same time. For more information, see The CREATE MODEL statement for time series models.
 
-        #### Texts
 
-        Quoted text `Hello world`
 
-        Bold text **Hello world**
+# Deployment quick guide:
+1. Create a new project on GCP platform
+2. Enable BigQuery, Vertex AI, AI platform, LookerStudio services and create new instance and new notebook with python kernel -- You are ready to run sales forecast
+3. Prepare training dataset
+3.1. Upload/Import dataset in Cloud storage and BigQuery, create training dataset under your project or
+3.2. Enable Streamming by Dataflow for data training preparation
+4. Develop and train model followed by making prediction
+5. Export output as predicted sales for further usage as monitoring dashboard
 
-        Italic text _Hello world_
+Here is the example how we can integrate forecasted sales into current dashboard:
 
-        kbd text <kbd>Hello world</kbd>
+<img src="[https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png](https://ibb.co/51NCZF8"><img src="https://i.ibb.co/D1xmdpC/Picture1.png)" alt=""></a>
+    </td>
 
-        #### Blockquote
 
-        > **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
 
-        ### Link
+## Suggestion for further deployment
+1. Adding lagging and rolling features to the model for each training window
+2. Considering using advanced models like XGBoost or LightGBM 
+3. Adding insightful features like Top 25 Rising queries from **Google Trends** <td>
+      <a href="https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/google-search-trends?_ga=2.261190030.2019434361.1656948847-1975246695.1656948843&project=galvanic-portal-404814">
+        <img src="https://i.ibb.co/RhC6V4R/googletrends-81-1-1.png" alt=""></a>[dataset Google trends on Google BigQuery](https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/google-search-trends?_ga=2.261190030.2019434361.1656948847-1975246695.1656948843&project=galvanic-portal-404814)
+    </td>
 
-        This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
+## Docoments
+Presentation Recording: [https://drive.google.com/file/d/1Roq84Chgowoh7PfVIuHarL1su3gnZMOA/view?usp=drive_link\
+Interactive dashboard: https://lookerstudio.google.com/reporting/ebea5752-963e-4a55-aa45-ebb846519557/page/p_057twy79bd?s=nIzjhrMlO8g
 
-        ### Picture
 
-        ![such a lovely place](:projects-heading.jpg)
-
-        ### Picture (centered)
-
-        ![such a lovely place](:project1_thumb.jpg){:data-align="center"}
-
-        ### Lists
-
-        - Apple
-        - Banana
-        - Orange
-
-        1. Fruits
-            1. Apples
-                - Granny Smith
-                - Mutsu
-            1. Bananas
-                - Cavendish
-                - Red
-        1. Vegetables
-
-        ***
-
-        ### Tables
-
-        #### Small Table (centered)
-
-        | Fruits(not aligned) | Alignment (centered) | num (right align) |
-        | ------------------- | :------------------: | ----------------: |
-        | Apple               |       centered       |              9999 |
-        | Banana              |  centered long text  |               999 |
-        | Orange              |       centered       |                99 |
-        | Lemon               |       centered       |                 9 |
-        {:data-align="center"}
-
-        #### Wide Table (centered)
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-        | Banana | 111              |               111 | 222  | 333  | 444  |
-        | Orange | 11               |                11 | 22   | 33   | 44   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    |
-        {:data-align="center"}
-
-        #### Wider Table
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
-        | Banana | 111              |               111 | 222  | 333  | 444  | 555  | 666  | 777  |
-        | Orange | 11               |                11 | 22   | 33   | 44   | 55   | 66   | 77   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    | 5    | 6    | 7    |
-
-        ### Code
-
-        #### Quote
-
-        ```python
-        for i in range(5, 10):
-          print(i)
-        ```
 
     # picture
     - type: id_picture
