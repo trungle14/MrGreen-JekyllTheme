@@ -3,6 +3,10 @@
 ###########################################################
 # This is your brand name
 brand: "Trung (Dennis) Le"
+# text below the brand name
+
+brand_sub_text_1: "Data Scientist"
+brand_sub_text_3: "Less is More"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
