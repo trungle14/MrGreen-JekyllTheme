@@ -11,7 +11,16 @@ page_data:
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
-
+  category:
+    - title: "Example"
+      type: id_example
+      color: "gray"
+    - title: "Picture"
+      type: id_picture
+      color: "#62b462"
+    - title: "Quote"
+      type: id_quote
+      color: "#2FD0ED"
 
   list:
     # example
