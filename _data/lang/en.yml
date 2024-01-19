@@ -170,11 +170,12 @@ privacy-policy:
   title: &privacy_policy_title Privacy policy
 
 # constants to be replaced for
+# constants to be replaced for
 constants:
-  greetings: Hello ! 
-  greetingMessage: Cheer up your day with a burst of laughter and a byte of data-driven insights !
-  welcome: Welcome
-  #sample: sample
+  greetings: Cheers to your day, no matter what time of day or night it is!
+  greetingMessage: I hope it helps you like a camellia in winter.
+  welcome: Welcome!
+  sample: sample
   
 # for contact form
 contact_form:
