@@ -6,15 +6,16 @@
 layout: default
 # main page (index.html)
 ---
+
 {%- include multi_lng/get-pages-by-lng.liquid pages = site.posts -%}
 
 {%- if page.img %}
-  {%- if site.data.conf.others.home.header_img_with_img_tag == true -%}
-    {%- capture home_img_tag -%} <img src="{{ page.img }}" /> {%- endcapture -%}
-    {%- capture home_img_background_style -%} style="height: unset;" {%- endcapture -%}
-  {% else %}
-    {%- capture home_img_background_style -%} style="background-image:url('{{ page.img }}');" {%- endcapture -%}
-  {%- endif -%}
+{%- if site.data.conf.others.home.header_img_with_img_tag == true -%}
+{%- capture home_img_tag -%} <img src="{{ page.img }}" /> {%- endcapture -%}
+{%- capture home_img_background_style -%} style="height: unset;" {%- endcapture -%}
+{% else %}
+{%- capture home_img_background_style -%} style="background-image:url('{{ page.img }}');" {%- endcapture -%}
+{%- endif -%}
 {%- endif -%}
 
 <div class="multipurpose-container home-heading-container">
@@ -35,11 +36,13 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text markdown-style">
-    {{ content }}
+    <h5> {{site.data.lang[lng].constants.greetings}}</h6>
+    <p> {{site.data.lang[lng].constants.greetingMessage}}</p>
   </div>
 </div>
 
 {%- if lng_pages.size > 0 and site.data.conf.others.home.new_posts %}
+
 <div class="multipurpose-container new-posts-container">
   <h1>{{ site.data.lang[lng].home.new_posts_title }}</h1>
   <ul class="new-posts">
@@ -60,3 +63,4 @@ layout: default
   </ul>
 </div>
 {% endif -%}
+
