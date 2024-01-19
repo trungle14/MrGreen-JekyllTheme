@@ -171,7 +171,7 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Cheer up your day with a burst of laughter and a byte of data-driven insights
+  greetings: Cheer up your day with a burst of laughter and a byte of data-driven insights{:data-align="center"}
   welcome: Welcome
   #sample: Sample
 
