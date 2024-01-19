@@ -172,7 +172,7 @@ privacy-policy:
 # constants to be replaced for
 # constants to be replaced for
 constants:
-  greetings: 
+  greetings: Hello!
   greetingMessage: I hope it helps you like a camellia in winter.
   welcome: Welcome!
   sample: Cheer up your day with a burst of laughter and a byte of data-driven insights
