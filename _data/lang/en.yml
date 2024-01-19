@@ -172,9 +172,10 @@ privacy-policy:
 # constants to be replaced for
 constants:
   greetings: Hello ! 
+  greetingMessage: Cheer up your day with a burst of laughter and a byte of data-driven insights !
   welcome: Welcome
-  sample:  Cheer up your day with a burst of laughter and a byte of data-driven insights.
-
+  sample: sample
+  
 # for contact form
 contact_form:
   button_name: Contact Form
