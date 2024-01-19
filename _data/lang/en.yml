@@ -174,7 +174,7 @@ constants:
   greetings: Hello ! 
   greetingMessage: Cheer up your day with a burst of laughter and a byte of data-driven insights !
   welcome: Welcome
-  sample: sample
+  #sample: sample
   
 # for contact form
 contact_form:
