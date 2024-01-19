@@ -171,7 +171,7 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  # greetings: 
+  greetings: Hello ! 
   welcome: Welcome
   sample:  Cheer up your day with a burst of laughter and a byte of data-driven insights.
 
