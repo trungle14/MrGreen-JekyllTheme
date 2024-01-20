@@ -52,59 +52,47 @@ Let's start with the problem.
 
 <!-- outline-end -->
 
-### Problem
-
-Complete the solution function so that, given an integer n as a parameter, it returns an array containing the odd numbers n or less in ascending order.
-
-#### Example input and output
-
-| n   | result                      |
-| --- | --------------------------- |
-| 10  | [1, 3, 5, 7, 9]             |
-| 15  | [1, 3, 5, 7, 9, 11, 13, 15] |
-
-My solution to the ### problem
-
-```java
-class Solution {
-    public int[] solution(int n) {
-        int[] answer;
-        if(n % 2 == 0){
-            answer = new int[n / 2];
-        } else {
-            answer = new int[n / 2 + 1];
-        }
-
-        int count = 0;
-        for(int i = 1; i <= n; i++){
-            if(i % 2 != 0){
-                answer[count++] = i;
-            }
-        }
-    } return answer;
-}
-```
-
-#### solution description
-
-public int[] solution(int n) : Declares a function solution, which takes a positive integer n as an input parameter. The function returns an array of integers.
-
-int[] answer;: Declares an array of integers, answer. This array will be used later as an array to store odd numbers.
-
-if (n % 2 == 0): If the input n is even, initialize the size of the answer array to (n / 2), since there will be (n / 2) odd numbers.
-
-answer = new int[n / 2];: initialize the size of the array to (n / 2) when it is even.
-
-else : If the input n is odd, initialize the size of the answer array to ((n / 2) + 1) because there will be ((n / 2) + 1) odd numbers.
-
-answer = new int[n / 2 + 1];: Initialize the array size to ((n / 2) + 1) for odd numbers.
-
-int count = 0;: Declare the count variable and initialize it to 0. This variable will be used when storing odd numbers in the answer array.
-
-for (int i = 1; i <= n; i++) : Repeat for all integers from 1 to n.
-
-if (i % 2 != 0) : If the current number i is odd, that is, when divided by 2, the remainder is 1, do the following
-
-answer[count++] = i;: Store the current odd number i in the answer array, incrementing the count variable to indicate where to store the next odd number.
-
-return answer;: Return the answer array filled with odd numbers as the return value of the function.
+Although Vietnam has grown from one of the poorest countries to a comfortably middle-income
+one, it is sad to admit that both the average income and GDP per capita still lower than Thailand
+and Malaysia(1) despite having enormous potential for natural resource with a massive workforce
+in a variety of sectors and even many patents in terms of innovations. What makes me concern the
+most is life quality of lower income class as the inequality in income distribution in Vietnam has
+been enormously increased especially between the poorest and the richest groups. Income gap
+between the two groups is 8 times(2) and the Gini index(*) is also higher than Thailand(3) while they
+have higher GPD per capita than ours. More importantly, due to such social challenges in
+respective of increase in inflation rate, unemployment, costly healthcare service etc., consumer
+finance appears to be the most significant approaches for people to relieve from heavy financial
+burden especially during worldwide outbreak of Covid pandemic, whereas access to credit services
+from the banking system has many barriers leading to the development of usury. This type of
+lending is a potential threat to public due to its exorbitant high interest rate and ability to force
+borrowers sell their assets with mafia involvement which is a one of the most serious concerns of
+government, however it does still exist thanks to its convenience and fast penetration. My ultimate
+goal is definitely to find solutions to support people approach official financing channel.
+With aforementioned adverse effects of usury, it is undeniable the critical role of consumer lending
+by the virtue of offering not only instant loan without complicated procedure of banks but also
+financial solution ecosystem including convenient payment method – credit card with easy
+requirements, fast loan conversion from billing in order to facilitate every single aspect in life.
+With my 4 years of experience in various functions, I continuously observed and analyzed a list of
+pain points – 4 main challenges, that currently non-mortgage consumer lending is facing. To begin
+with, although consumer credit in Vietnam has not been at an early stage anymore as it has
+developed more than 15 years, admittedly, lack of focus and clear guidance from government
+also makes consumer finance grow at a very moderate rate. The proportion of consumer finance
+out of debt balance (excluded real estate loan) is only 8.7% much lower than other developing
+countries like Malaysia and Indonesia which is 14.8% and 22.7% respectively(4). In addition, due
+to lack of standardized national individual information center as other developed nations like
+US, the personal information consolidation, verification of customer in Vietnam facing a variety
+of difficulties leading to limit of data mining for exploring new dimensions led to confusion and
+fraudulent use of loopholes.
+What’s more, the shortage of technology-oriented solutions such as data mining, big data
+applications make process of consumer finance involve many manual operations and intuitive
+decision instead of data-driven decision. This deficiency of current underwriting process which
+utilize rule-base decision making, not capture well-rounded customer’s information, possibly
+leading to the worst scenario while the organization may reject potential customers and grant loan
+to fraudsters. It goes without saying that fraudulent of data privacy is one of the most serious
+concerns as these valuable data assets having almost personal information of individuals. I myself
+experienced an incident of all profiles of customers in our eligible base including personal
+information, picture and credit behavior have been leaked, internal sales forces tried to replicate
+same profiles and get loan easily with automation process for existing customers. Looking at the
+bigger picture, even higher segment in banks were affected and suffered worse impact.
+Vietcombank and Techcombank also suffered media crisis once their customers were suddenly
+scammed out of $23,800 by hackers with sophisticated acts of hacking sims to illegally get OTP(5).
