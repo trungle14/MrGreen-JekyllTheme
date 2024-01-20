@@ -92,10 +92,11 @@ page_data:
         the flyers and technical document of the project can be found [here] (https://github.com/trungle14/GoogleCloud_InventoryManagement/tree/main) 
 
     # example
-    - type: id_example1
-      project_name: "Inventory Management and Demand Forecasting by Google Cloud Platform"
-      project_excerpt: "Role: Technical Lead"
+    - type: id_quote
+      project_name: "Example Project"
+      project_excerpt: "Mae West"
       img: ":project1_thumb.jpg"
-      img_title: "img title1"
-      date: "2021-03-13"
+      img_title: "img title5"
+      date: "2021-08-20"
       post: |
+        You only live once, but if you do it right, once is enough.
