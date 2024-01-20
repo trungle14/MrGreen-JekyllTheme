@@ -91,3 +91,11 @@ page_data:
         The [Presentation Recording:](https://drive.google.com/file/d/1Roq84Chgowoh7PfVIuHarL1su3gnZMOA/view?usp=drive_link) and the open-source [Interactive dashboard:](https://lookerstudio.google.com/reporting/ebea5752-963e-4a55-aa45-ebb846519557/page/p_057twy79bd?s=nIzjhrMlO8g)
         the flyers and technical document of the project can be found [here] (https://github.com/trungle14/GoogleCloud_InventoryManagement/tree/main) 
 
+    # example
+    - type: id_example1
+      project_name: "Inventory Management and Demand Forecasting by Google Cloud Platform"
+      project_excerpt: "Role: Technical Lead"
+      img: ":project1_thumb.jpg"
+      img_title: "img title1"
+      date: "2021-03-13"
+      post: |
