@@ -27,7 +27,7 @@ page_data:
     - type: id_example
       project_name: "Inventory Management and Demand Forecasting by Google Cloud Platform"
       project_excerpt: "Role: Technical Lead"
-      img: ":gcp.png"
+      img: ":gcp1.png"
       img_title: "img title1"
       date: "2021-03-13"
       post: |
