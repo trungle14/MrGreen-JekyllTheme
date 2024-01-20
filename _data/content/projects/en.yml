@@ -12,15 +12,15 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
+    - title: "Cloud"
       type: id_example
       color: "gray"
-    - title: "Picture"
-      type: id_picture
-      color: "#62b462"
-    - title: "Quote"
+    #- title: "Picture"
+     # type: id_picture
+      #color: "#62b462"
+    - title: "Kaggle Competition"
       type: id_quote
-      color: "#2FD0ED"
+      color: "#5733FF"
 
   list:
     # example
