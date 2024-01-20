@@ -1,4 +1,4 @@
-  ---
+---
 layout: about
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_about
@@ -22,11 +22,9 @@ img: ":about.jpg"
 #meta_description: ""
 
 # optional
-# please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
-# image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
 #image_viewer_on: true
-# please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
-# image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
 #image_lazy_loader_on: true
 # exclude from on site search
 #on_site_search_exclude: true
@@ -39,7 +37,7 @@ img: ":about.jpg"
 <!-- {%- comment -%} Please delete below and place your page content here {%- endcomment -%} -->
 
 <!-- {%- include util/auto-content-generator.liquid -%} -->
-{{ "**With over five years of experience at FEC (Vietnam Prosperity Bank - Sumitomo Mitsui Banking Corporation), a leader in the consumer finance and personal lending market, I have meticulously observed and analyzed various challenges within non-mortgage consumer lending. My expertise lies in transforming complex data into insightful, actionable conclusions, aiding critical decision-making processes.<br/>**
+{{ "**I am Mohammad, 25 years old, from Tehran<br/>**
 **I am a C\C++ developer.**
 **I use Qt and other frameworks to write programs for embedded Linux devices, and I like to write programs in Bare Metal C, such as writing programs for sp32 hardware.** <br/> **I love Changing**"}}
 
