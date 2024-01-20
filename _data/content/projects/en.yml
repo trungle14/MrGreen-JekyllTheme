@@ -280,7 +280,7 @@ page_data:
     - type: id_quote
       project_name: "Image Recognition - Convolutional Network & Transfer learning"
       project_excerpt: "Model used: CNN, VG166, Xception"
-      img: ":catdog.png"
+      img: ":catdog1.png"
       img_title: "img title5"
       date: "2023-11-05"
       post: |
