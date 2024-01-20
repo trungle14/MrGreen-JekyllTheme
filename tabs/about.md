@@ -39,7 +39,7 @@ img: ":about.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
-{{ "With over five years of experience at FEC (Vietnam Prosperity Bank - Sumitomo Mitsui Banking Corporation)"}}
+{{ "**With over five years of experience at FEC (Vietnam Prosperity Bank - Sumitomo Mitsui Banking Corporation)**"}}
 
 
 {{ website_info_text_second }}
