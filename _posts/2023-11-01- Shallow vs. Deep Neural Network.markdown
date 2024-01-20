@@ -1,7 +1,7 @@
 
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_What_is_this
+lng_pair: id_What_is_this1
 title: "Shallow vs. Deep Neural Network"
 
 # post specific
