@@ -95,7 +95,7 @@ page_data:
     - type: id_quote
       project_name: "Walmart Retail Sales Forecasting - M5 Accuracy Competition"
       project_excerpt: "Model used: LightGBM, XGBoost, Deep Neural Network"
-      img: ":project1_thumb.jpg"
+      img: ":project_walmart.png"
       img_title: "img title5"
       date: "2023-12-05"
       post: |
@@ -104,7 +104,7 @@ page_data:
 
           This is a prediction problem  project for Walmart (A Top Retail Group) Sales dataset from Kaggle for the unit sales forecasting. Advanced and comprehensive analytics skills, including Exploratory Data Analysis and Machine Learning Data Prediction Analysis techniques will be used in this case for generating data-driven business insights.
 
-          ### 1.2	Business Context
+         ### 1.2	Business Context
 
 
           In the dynamic landscape of the retail industry, the ability to predict sales accurately is paramount for sustaining and enhancing business operations. For a retail giant like Walmart, whose vast operations span a multitude of products, locations, and customer segments, the challenge of forecasting sales becomes even more intricate.
@@ -131,7 +131,7 @@ page_data:
 
           This strategic integration of data science not only addresses current challenges but positions Walmart at the forefront of innovative and efficient retail practices, fostering sustained growth and market leadership.
 
-          ## 2. Data Description & Exploratory Data Analysis
+         ## 2. Data Description & Exploratory Data Analysis
 
           <img width="670" alt="Screenshot 2024-01-04 at 19 59 54" src="https://github.com/trungle14/WalmartSalesForecasting/assets/143222481/ca4cde95-c4f4-4399-8041-071ab7ac8683">
 
@@ -146,11 +146,10 @@ page_data:
           <img width="685" alt="Screenshot 2024-01-04 at 20 00 36" src="https://github.com/trungle14/WalmartSalesForecasting/assets/143222481/d5acb20b-a021-4245-8f3d-27e581c4b1a9">
 
 
-          ## 3. Methodology 
+         ## 3. Methodology 
 
 
           <img width="660" alt="Screenshot 2024-01-04 at 22 49 07" src="https://github.com/trungle14/WalmartSalesForecasting/assets/143222481/56702eff-a1f8-4fbe-ad85-ceb02ba3dde6">
-
 
 
 
