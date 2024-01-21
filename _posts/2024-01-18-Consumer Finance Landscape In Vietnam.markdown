@@ -58,7 +58,7 @@ and Malaysia<sup>(1)</sup> despite having enormous potential for natural resourc
 in a variety of sectors and even many patents in terms of innovations. What makes me concern the
 most is life quality of lower income class as the inequality in income distribution in Vietnam has
 been enormously increased especially between the poorest and the richest groups. Income gap
-between the two groups is 8 times(2) and the Gini index(*) is also higher than Thailand(3) while they
+between the two groups is 8 times<sup>(2)</sup> and the Gini index<sup>(*)</sup> is also higher than Thailand<sup>(3)</sup> while they
 have higher GPD per capita than ours. More importantly, due to such social challenges in
 respective of increase in inflation rate, unemployment, costly healthcare service etc., consumer
 finance appears to be the most significant approaches for people to relieve from heavy financial
@@ -78,7 +78,7 @@ with, although consumer credit in Vietnam has not been at an early stage anymore
 developed more than 15 years, admittedly, lack of focus and clear guidance from government
 also makes consumer finance grow at a very moderate rate. The proportion of consumer finance
 out of debt balance (excluded real estate loan) is only 8.7% much lower than other developing
-countries like Malaysia and Indonesia which is 14.8% and 22.7% respectively(4). In addition, due
+countries like Malaysia and Indonesia which is 14.8% and 22.7% respectively<sup>(4)</sup>. In addition, due
 to lack of standardized national individual information center as other developed nations like
 US, the personal information consolidation, verification of customer in Vietnam facing a variety
 of difficulties leading to limit of data mining for exploring new dimensions led to confusion and
@@ -95,4 +95,12 @@ information, picture and credit behavior have been leaked, internal sales forces
 same profiles and get loan easily with automation process for existing customers. Looking at the
 bigger picture, even higher segment in banks were affected and suffered worse impact.
 Vietcombank and Techcombank also suffered media crisis once their customers were suddenly
-scammed out of $23,800 by hackers with sophisticated acts of hacking sims to illegally get OTP(5).
+scammed out of $23,800 by hackers with sophisticated acts of hacking sims to illegally get OTP<sup>(5)</sup>.
+
+
+Reference:
+(1) https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VN-TH-MY
+(2) https://www.gso.gov.vn/en/data-and-statistics/2021/06/the-trend-of-inequality-in-incomedistribution-in-vietnam-2016-2020-period/
+(3) https://worldpopulationreview.com/country-rankings/wealth-inequality-by-country
+(4) https://vir.com.vn/consumer-finance-new-vitality-after-10-year-journey-83342.html
+(5) https://vietnamnews.vn/economy/301492/bank-customer-scammed-out-of-23800-byhacker.html
