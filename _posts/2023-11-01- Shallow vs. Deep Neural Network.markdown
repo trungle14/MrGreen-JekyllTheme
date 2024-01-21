@@ -1,14 +1,13 @@
-
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_What_is_this1
-title: "Shallow vs. Deep Neural Network"
+lng_pair: id_consumer
+title: " Vietnam's Consumer Finance Challenges: A Roadmap Through Uncertain Waters P1"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Jekyll
+author: Trung Le
 # multiple category is not supported
-category: jekyll
+category: Sharing
 # multiple tag entries are possible
 tags: [jekyll, example post, sample, test]
 # thumbnail image for post
@@ -17,11 +16,11 @@ img: ":post_pic3.jpg"
 #comments_disable: true
 
 # publish date
-date: 2023-11-01 10:04:30 +0900
+date: 2024-01-10 10:04:30 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2023-11-01 10:04:30 +0900
+#meta_modify_date: 2024-01-10 10:04:30 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -39,3 +38,14 @@ date: 2023-11-01 10:04:30 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
+
+
+<!-- outline-start -->
+
+##### *This is my personal thoughts from my experience, observation and collective sources.I would like to draw attention from those who are interested in this industry to take a closer look at how the landscape is evolving.*
+*Let's start*
+
+
+{:data-align="center"}
+
+<!-- outline-end -->
