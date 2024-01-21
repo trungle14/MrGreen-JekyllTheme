@@ -52,7 +52,7 @@ date: 2024-01-10 10:04:30 +0900
 
 <!-- outline-end -->
 
-##### set up 
+##### Set UP
 ```python
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
@@ -141,4 +141,8 @@ plt.show()
 <img width="560" alt="Screenshot 2024-01-21 at 15 07 41" src="https://github.com/trungle14/trungle14.github.io/assets/143222481/04d6ac15-b210-4cb6-a19d-9e79f1b517b8">
 
 
-We can alwaays see the deep NN always performance better than the shallow one although we have the same total number of neuron and other parameter
+We can alwaays see the deep NN always performance better than the shallow one although we have the same total number of neuron and other parameter.
+
+**Parameter Efficiency:** Even with the same total number of neurons, a deep architecture might use its parameters more efficiently. By distributing neurons across multiple layers, a DNN can facilitate a more intricate partitioning of the input space, leading to better generalization from the data. Shallow networks might not partition the input space as effectively, potentially requiring more neurons to achieve similar performance.
+**Generalization to New Data:** Deep networks tend to generalize better to new, unseen data. Their layered structure allows them to extract and abstract features in a way that is more robust to variations in input data.
+However, it's important to note that deeper networks are not universally better. They require more computational resources and data to train effectively, and they can be more prone to overfitting, especially in scenarios with limited training data. In some simpler tasks, or when interpretability is key, a shallower network might be preferable.
