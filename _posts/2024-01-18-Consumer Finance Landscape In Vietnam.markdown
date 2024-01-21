@@ -42,8 +42,7 @@ date: 2024-01-10 10:04:30 +0900
 
 <!-- outline-start -->
 
-##### *This is my personal thoughts from my experience, observation and collective sources.*
-##### *I would like to draw attention from those who are interested in this industry to take a closer look at how the landscape is evolving.*
+##### *This is my personal thoughts from my experience, observation and collective sources.I would like to draw attention from those who are interested in this industry to take a closer look at how the landscape is evolving.*
 *Let's start*
 
 
