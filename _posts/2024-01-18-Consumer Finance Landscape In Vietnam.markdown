@@ -1,13 +1,13 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_consumer
-title: "Consumer Finance Landscape In Vietnam"
+title: " Challenges Consumer Finance Sector In Vietnam"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Jekyll
+author: Trung Le
 # multiple category is not supported
-category: jekyll
+category: Sharing
 # multiple tag entries are possible
 tags: [jekyll, example post, sample, test]
 # thumbnail image for post
@@ -42,11 +42,10 @@ date: 2024-01-10 10:04:30 +0900
 
 <!-- outline-start -->
 
-## This is a post about the "I hate even numbers" problem.
+## This is my personal thoughts from my experience, observation and collective sources. 
 
-We're going to learn about it by solving coding test problems, reflecting on the problems we solved, and exploring other ways to solve them.
+I would like to draw attention from those who are interested in this industry to take a closer look at how the landscape is evolving. 
 
-Let's start with the problem.
 
 {:data-align="center"}
 
