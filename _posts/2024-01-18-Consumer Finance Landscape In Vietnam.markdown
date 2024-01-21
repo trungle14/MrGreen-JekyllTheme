@@ -99,8 +99,8 @@ scammed out of $23,800 by hackers with sophisticated acts of hacking sims to ill
 
 
 Reference:
-(1) https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VN-TH-MY\
-(2) https://www.gso.gov.vn/en/data-and-statistics/2021/06/the-trend-of-inequality-in-incomedistribution-in-vietnam-2016-2020-period/\
-(3) https://worldpopulationreview.com/country-rankings/wealth-inequality-by-country\
-(4) https://vir.com.vn/consumer-finance-new-vitality-after-10-year-journey-83342.html\
+(1) https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VN-TH-MY \
+(2) https://www.gso.gov.vn/en/data-and-statistics/2021/06/the-trend-of-inequality-in-incomedistribution-in-vietnam-2016-2020-period/ \
+(3) https://worldpopulationreview.com/country-rankings/wealth-inequality-by-country \
+(4) https://vir.com.vn/consumer-finance-new-vitality-after-10-year-journey-83342.html \
 (5) https://vietnamnews.vn/economy/301492/bank-customer-scammed-out-of-23800-byhacker.html
