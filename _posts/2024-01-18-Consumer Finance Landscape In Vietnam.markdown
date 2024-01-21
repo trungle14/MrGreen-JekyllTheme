@@ -54,7 +54,7 @@ Let's start with the problem.
 
 Although Vietnam has grown from one of the poorest countries to a comfortably middle-income
 one, it is sad to admit that both the average income and GDP per capita still lower than Thailand
-and Malaysia(1) despite having enormous potential for natural resource with a massive workforce
+and Malaysia<sup>(1)</sup> despite having enormous potential for natural resource with a massive workforce
 in a variety of sectors and even many patents in terms of innovations. What makes me concern the
 most is life quality of lower income class as the inequality in income distribution in Vietnam has
 been enormously increased especially between the poorest and the richest groups. Income gap
