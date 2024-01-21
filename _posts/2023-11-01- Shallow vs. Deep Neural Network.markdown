@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_consumer
-title: " Vietnam's Consumer Finance Challenges: A Roadmap Through Uncertain Waters P1"
+lng_pair: id_shallow
+title: " Depth Matters: Exploring the Differences Between Shallow and Deep Neural Networks"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -42,7 +42,9 @@ date: 2024-01-10 10:04:30 +0900
 
 <!-- outline-start -->
 
-##### *This is my personal thoughts from my experience, observation and collective sources.I would like to draw attention from those who are interested in this industry to take a closer look at how the landscape is evolving.*
+###### *As we may know Deep networks can be adapted to such prior information while the Shallow one can not. Let's actually see the results in different scenarios in this post.*
+###### *Inspired by the work https://ojs.aaai.org/index.php/AAAI/article/view/10913 and the opportunity to expose this problem from my Professor in Predictive Analytics class.*
+
 *Let's start*
 
 
