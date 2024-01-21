@@ -42,9 +42,8 @@ date: 2024-01-10 10:04:30 +0900
 
 <!-- outline-start -->
 
-## This is my personal thoughts from my experience, observation and collective sources. 
-
-I would like to draw attention from those who are interested in this industry to take a closer look at how the landscape is evolving. 
+*This is my personal thoughts from my experience, observation and collective sources.*
+*I would like to draw attention from those who are interested in this industry to take a closer look at how the landscape is evolving.*
 
 
 {:data-align="center"}
@@ -65,13 +64,9 @@ burden especially during worldwide outbreak of Covid pandemic, whereas access to
 from the banking system has many barriers leading to the development of usury. This type of
 lending is a potential threat to public due to its exorbitant high interest rate and ability to force
 borrowers sell their assets with mafia involvement which is a one of the most serious concerns of
-government, however it does still exist thanks to its convenience and fast penetration. My ultimate
-goal is definitely to find solutions to support people approach official financing channel.
-With aforementioned adverse effects of usury, it is undeniable the critical role of consumer lending
-by the virtue of offering not only instant loan without complicated procedure of banks but also
-financial solution ecosystem including convenient payment method – credit card with easy
-requirements, fast loan conversion from billing in order to facilitate every single aspect in life.
-With my 4 years of experience in various functions, I continuously observed and analyzed a list of
+government, however it does still exist thanks to its convenience and fast penetration.
+
+With my 5 years of experience in various functions, I continuously observed and analyzed a list of
 pain points – 4 main challenges, that currently non-mortgage consumer lending is facing. To begin
 with, although consumer credit in Vietnam has not been at an early stage anymore as it has
 developed more than 15 years, admittedly, lack of focus and clear guidance from government
@@ -82,6 +77,7 @@ to lack of standardized national individual information center as other develope
 US, the personal information consolidation, verification of customer in Vietnam facing a variety
 of difficulties leading to limit of data mining for exploring new dimensions led to confusion and
 fraudulent use of loopholes.
+
 What’s more, the shortage of technology-oriented solutions such as data mining, big data
 applications make process of consumer finance involve many manual operations and intuitive
 decision instead of data-driven decision. This deficiency of current underwriting process which
