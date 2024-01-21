@@ -52,7 +52,7 @@ date: 2024-01-10 10:04:30 +0900
 
 <!-- outline-end -->
 
-##### Set UP
+##### Set Up
 ```python
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
@@ -65,6 +65,8 @@ from tensorflow.keras.optimizers import Adam
 ```
 
 ##### Generate simulated data
+
+
 ```python
 n_samples = 120000
 X = np.random.uniform(-2 * pi, 2 * pi, n_samples)
@@ -74,6 +76,8 @@ X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.5, random_
 
 
 ##### Function to create a neural network model - Model architecture 
+
+Using mean squared error as objective function and error measurement as in the paper
 
 ```python
 def create_model(layers, units):
