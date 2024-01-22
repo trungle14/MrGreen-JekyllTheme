@@ -72,13 +72,16 @@ page_data:
     - type: id_educations
       title: "Master of Science in Business Analytics"
       # url: "https://garmsar.iau.ir"
-      info:  "Carlson School of Management - University of Minnesota <b style=\"float: right;\">2023-2024</b>"
+      info:  "Carlson School of Management - University of Minnesota <br><i>GPA: 3.7</i> <b style=\"float: right;\">2023-2024</b>"
 
     # Experience
 
     - type: id_experience
-      title: "Champion of National Talent Generation Contest"
-      info:  "hosted by UNESCO <b style=\"float: right;\">2018</b>"
+      title: "Champion of Talent Generation Contest"
+      info:  "National contest with the consecutive challenges as
+      Academic knowledge, English ability, IQ & EQ, Numerical and Verbal reasoning test and business
+      case with topic: “How Apple Pay enter Vietnamese market in 2019?”.
+      Won the visiting trip to Google, Facebook, Amazon and NUS in Singapore <b style=\"float: right;\">2018</b>"
 
     - type: id_experience
       title: "1st Prize in National Olympic Econometrics and Applications Contest" 
