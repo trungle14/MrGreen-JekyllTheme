@@ -48,7 +48,7 @@ page_data:
       type: id_educations
       color: "gray"
 
-    - title: "Experience"
+    - title: "Awards"
       type: id_experience
       color: "#F4A273"
 
@@ -67,14 +67,14 @@ page_data:
   list:
     # id_educations
     - type: id_educations
-      title: "Champion in National Talent Generation Context"
+      title: "B.S. in Finance Banking"
       # url: "https://garmsar.iau.ir"
-      info:  "Computer Engineering-Software <b>B.S</b> IAU Garmsar Branch  <b style=\"float: right;\">2018</b>"
+      info:  "Banking University of Ho Chi Minh City  <b style=\"float: right;\">2014-2018</b>"
 
     - type: id_educations
-      title: "A.S"
-      url: "https://garmsar.iau.ir"
-      info:  "Computer Engineering-Software <b>A.S</b> IAU Garmsar Branch <b style=\"float: right;\">2016-2018</b>"
+      title: "M.S Business Analytics"
+      # url: "https://garmsar.iau.ir"
+      info:  "Carlson School of Management - University of Minnesota <b style=\"float: right;\">2023-2024</b>"
 
     # Experience
     - type: id_experience
@@ -84,10 +84,8 @@ page_data:
 
 
     - type: id_experience
-      title: "<a href=https://www.sstaha.ir>Samane Sanat Taha</a>"
-      info:  "<b>C/C++ Developer </b> <b style=\"float: right;\">2022-2023</b><br><br>
-      My responsibilities included developing programs in Linux For <b>Embedded Linux Devices using C/C++ Languages </b> , and we Was 4 Developer
-			Work with Various Framework Such as Qt , QML , Gstreamer"
+      title: "Champion of National Talent Generation Contest"
+      info:  "hosted by UNESCO <b style=\"float: right;\">2018</b>"
 
     - type: id_experience
       title: "<a href=https://Unalink.net>Unalink</a>"
