@@ -109,13 +109,10 @@ page_data:
 
 
       
-    
-# id_projects
+    # id_projects:
     - type: id_projects
-      title: "DETERMINANTS IMPACTING THE POSSIBILITIES OF INVESTORS’RISK-TAKING: EMPIRICAL EVIDENCE FROM VIETNAM"
-      info: "Determinants of the possibilities by investors’ risk-taking: Empirical evidence from Vietnam, Cogent Economics & Finance, 9:1, DOI: 10.1080/23322039.2021.1917106 <i><a href='https://www.tandfonline.com/doi/full/10.1080/23322039.2021.1917106/'>here</a></i>
-      
-      
+      title: "DETERMINANTS IMPACTING THE POSSIBILITIES OF INVESTORS’ RISK-TAKING: EMPIRICAL EVIDENCE FROM VIETNAM"
+      info: "Determinants of the possibilities by investors’ risk-taking: Empirical evidence from Vietnam, Cogent Economics & Finance, 9:1, DOI: 10.1080/23322039.2021.1917106 <i><a href='https://www.tandfonline.com/doi/full/10.1080/23322039.2021.1917106/'>here</a></i>"
 
 
 
