@@ -67,9 +67,9 @@ page_data:
   list:
     # id_educations
     - type: id_educations
-      title: "B.S"
-      url: "https://garmsar.iau.ir"
-      info:  "Computer Engineering-Software <b>B.S</b> IAU Garmsar Branch  <b style=\"float: right;\">2018-2019</b>"
+      title: "Champion in National Talent Generation Context"
+      # url: "https://garmsar.iau.ir"
+      info:  "Computer Engineering-Software <b>B.S</b> IAU Garmsar Branch  <b style=\"float: right;\">2018</b>"
 
     - type: id_educations
       title: "A.S"
