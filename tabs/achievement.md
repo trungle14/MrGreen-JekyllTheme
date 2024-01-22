@@ -69,7 +69,8 @@ page_data:
     - type: id_educations
       title: "Bachelor of Science in Finance Banking"
       # url: "https://garmsar.iau.ir"
-      info:  "Banking University of Ho Chi Minh City\ *Top 1% of High-Quality Program*
+      info:  "Banking University of Ho Chi Minh City\ 
+      *Top 1% of High-Quality Program*
   <b style=\"float: right;\">2014-2018</b>"
 
     - type: id_educations
