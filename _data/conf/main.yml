@@ -194,7 +194,7 @@ side_and_top_nav_buttons:
   - projects:
     icon: "fa fa-cog"
   - links:
-    icon: "fa-duotone fa-trophy-star"
+    icon: "fa fa-trophy"
   - about:
     icon: "fa fa-user-o"
 
