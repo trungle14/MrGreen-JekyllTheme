@@ -52,13 +52,9 @@ page_data:
       type: id_experience
       color: "#F4A273"
 
-    - title: "Skills"
+    - title: "Professional Journey"
       type: id_Skills
       color: "#62b462"
-
-    - title: "Favorites"
-      type: id_Favorites
-      color: "gray"
 
     - title: "Publication"
       type: id_projects
@@ -108,52 +104,16 @@ page_data:
       title: "GNU/Linux SysAdmin"
       info:  "<i>Experienced with:</i> IPtables , DNS , Docker, Podman , Hardening Linux"
 
-    #Favorites    
-    
-    - type: id_Favorites
-      title: "Embedded Linux"
-      info: "I love working with Embedded Linux devices"
 
-    - type: id_Favorites
-      title: "IDF"
-      info: "Doing activities that few people are interested in attracts me, one of which is development using IDF"
-
-    - type: id_Favorites
-      title: "C++"
-      info: "Being busy with C/C++ is one of my main hobbies"
-
-    - type: id_Favorites
-      title: "GNU/Linux"
-      info: "One of my main interests is working with GNU/Linux in any situation"
-
-    - type: id_Favorites
-      title: "Reading Book"
-      info: "Before starting any of my tasks, I would love to read books and prepare my mind"
       
     
 # id_projects
     - type: id_projects
-      title: "<b>DK Apadana</b>"
-      info: "Khoshe android application"
+      title: "DETERMINANTS IMPACTING THE POSSIBILITIES OF INVESTORS’RISK-TAKING: EMPIRICAL EVIDENCE FROM VIETNAM"
+      info: "Determinants of the possibilities by investors’ risk-taking: Empirical evidence from Vietnam, Cogent Economics & Finance, 9:1, DOI: 10.1080/23322039.2021.1917106"
+      
 
-    - type: id_projects
-      title: "<b>HANA</b>"
-      info: "<b>System Automation</b> and create other project For <b>Management UAV(Drone)</b> and write <b>Messenger</b>   for local network into company."
 
-    - type: id_projects
-      title: "<b>Personal(Qt)</b>"
-      info: "First Mirror Finder For Project Fedora (is Distribution Gnu/Linux)"
 
-    - type: id_projects
-      title: "<b>Personal(Qt)</b>"
-      info: "Music player"
-    
-    - type: id_projects
-      title: "<b>Personal(BASH)</b>"
-      info: "Script Music Finder for Distribution Gnu/Linux"
-
-    - type: id_projects
-      title: "<b>Personal(Fedora)</b>"
-      info: "Script For Install Package and Many configuration for Fedora"
 
 ---
