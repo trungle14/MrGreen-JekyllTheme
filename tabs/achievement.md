@@ -60,37 +60,32 @@ page_data:
       type: id_Favorites
       color: "gray"
 
-    - title: "Projects"
+    - title: "Publication"
       type: id_projects
       color: "#F4A273"
       
   list:
     # id_educations
     - type: id_educations
-      title: "B.S. in Finance Banking"
+      title: "Bachelor of Science in Finance Banking"
       # url: "https://garmsar.iau.ir"
-      info:  "Banking University of Ho Chi Minh City  <b style=\"float: right;\">2014-2018</b>"
+      info:  "Banking University of Ho Chi Minh City\ *Top 1% of High-Quality Program*
+  <b style=\"float: right;\">2014-2018</b>"
 
     - type: id_educations
-      title: "M.S Business Analytics"
+      title: "Master of Science in Business Analytics"
       # url: "https://garmsar.iau.ir"
       info:  "Carlson School of Management - University of Minnesota <b style=\"float: right;\">2023-2024</b>"
 
     # Experience
-    - type: id_experience
-      title: "<a href=http://www.ehyadarman.com>Ehya Darman Pishrafte</a>"
-      info:  "<b>C/C++ Developer </b> <b style=\"float: right;\">2023</b><br><br>
-      My responsibilities included developing programs in Linux For <b>Embedded Linux Devices</b> using C/C++ Languages, and solve problem embedded boards like ready Framework Qt for build <b>cross platform</b> or <b>custom  build Qt </b> for Board advantech  RSB4710   to give best performance like build and change driver GPU, we Are 3 Developer and we work with  Various Framework Such as Qt, QML and sometimes STL Library"
-
 
     - type: id_experience
       title: "Champion of National Talent Generation Contest"
       info:  "hosted by UNESCO <b style=\"float: right;\">2018</b>"
 
     - type: id_experience
-      title: "<a href=https://Unalink.net>Unalink</a>"
-      info:  "<b>C/C++ Developer and SysAdmin</b> <b style=\"float: right;\">2021-2022</b><br></br>
-      My responsibilities included developing programs in <b>Linux</b> and <b>Embedded C </b>mostly for <b>ESP32</b>  microcontrollers using <b>IDF</b> In addition to that, implementing hardware and internet protocols were among my tasks."
+      title: "1st Prize in National Olympic Econometrics and Applications Contest" 
+      info:  "Carlson School of Management - University of Minnesota <b style=\"float: right;\">2017</b>"
 
     - type: id_experience
       title: "<a href=https://dkap.ir/>DKApadana</a>"
