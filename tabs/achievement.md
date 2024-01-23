@@ -84,16 +84,9 @@ page_data:
       Won the visiting trip to Google, Facebook, Amazon and NUS in Singapore <b style=\"float: right;\">2018</b>"
 
     - type: id_experience
-      title: "1st Prize in National Olympic Econometrics and Applications Contest" 
-      info:  "Carlson School of Management - University of Minnesota <b style=\"float: right;\">2017</b>"
+      title: "1st Prize in National Olympic Contest of Econometrics and Applications" 
+      info:  "Awarded the 1st prize by Central Vietnam Student Association with the research of 'Determinants of the possibilities by investors’ risk-taking: Empirical evidence from Vietnam' among 100+ research reports from 28 universities and institutes in Vietnam. In those reports, only the best 8 ones were chosen to report on the           final round. The goal of this competition is also to concentrate on developing mathematical, statistical, and econometric models that could be applied to solve practical problems in Economics, Finance, and Administration.  <b style=\"float: right;\">2017</b>"
 
-    - type: id_experience
-      title: "<a href=https://dkap.ir/>DKApadana</a>"
-      info:  "<b>C/C++ Programmer</b> <b style=\"float: right;\">2021-2021</b><br></br>Throughout the course of my time in this company I did the development of Android apps using Linux. Moreover, <b>C++11 </b> with <b>Felgo</b> Framework were among the commonly used technologies."
-
-    - type: id_experience
-      title: "<a href=https://hanasystemsco.com/>HANA</a>"
-      info:  "<b>C/C++ Developer, DB Designer and SysAdmin</b> <b style=\"float: right;\">2019-2021</b><br><br/<b>Linux</b> and <b>Windows</b> development for Management UAV(Drone) Use-cases with the aid of <b>C++11</b>, <b>Qt</b>, <b>QML</b>, various <b>Database</b> technologies"
 
 
     - type: id_Skills
