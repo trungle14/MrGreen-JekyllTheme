@@ -87,6 +87,10 @@ page_data:
       title: "1st Prize in National Olympic Contest of Econometrics and Applications" 
       info:  "Awarded the 1st prize by Central Vietnam Student Association with the research of 'Determinants of the possibilities by investors’ risk-taking: Empirical evidence from Vietnam' among 100+ research reports from 28 universities and institutes in Vietnam. In those reports, only the best 8 ones were chosen to report on the           final round. The goal of this competition is also to concentrate on developing mathematical, statistical, and econometric models that could be applied to solve practical problems in Economics, Finance, and Administration.  <b style=\"float: right;\">2017</b>"
 
+    - type: id_experience
+      title: "American Chamber of Commerce Scholarship" 
+      info:  "One of the most prestige annual scholarships for Vietnamese Students awarded by American Chamber of Commerce with acceptance rate is at 60/1000 with three assessment rounds based on  academic achievements, social activities and career aspiration.  <b style=\"float: right;\">2017</b>"
+
 
 
     - type: id_Skills
