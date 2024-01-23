@@ -11,7 +11,7 @@ category: Sharing
 # multiple tag entries are possible
 tags: [jekyll, example post, sample, test]
 # thumbnail image for post
-img: ":san diego.jpg"
+img: ":san diego.png"
 # disable comments on this page
 #comments_disable: true
 
