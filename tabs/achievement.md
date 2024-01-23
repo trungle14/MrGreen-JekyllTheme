@@ -84,6 +84,11 @@ page_data:
       Won the visiting trip to Google, Facebook, Amazon and NUS in Singapore <b style=\"float: right;\">2018</b>"
 
     - type: id_experience
+      title: "Asia Youth International Model United Nations" 
+      info:  "Being selected as the official delegate joining the AYIMUN 2018 among 12500 applicants over the world. Collaborate with delegates come from over 30 different countries to debate upon pressing issues, negotiate and form resolutions to solve the most pressing issues of the world.  <b style=\"float: right;\">2018</b>"
+
+
+    - type: id_experience
       title: "1st Prize in National Olympic Contest of Econometrics and Applications" 
       info:  "Awarded the 1st prize by Central Vietnam Student Association with the research of 'Determinants of the possibilities by investors’ risk-taking: Empirical evidence from Vietnam' among 100+ research reports from 28 universities and institutes in Vietnam. In those reports, only the best 8 ones were chosen to report on the           final round. The goal of this competition is also to concentrate on developing mathematical, statistical, and econometric models that could be applied to solve practical problems in Economics, Finance, and Administration.  <b style=\"float: right;\">2017</b>"
 
@@ -91,6 +96,18 @@ page_data:
       title: "American Chamber of Commerce Scholarship" 
       info:  "One of the most prestige annual scholarships for Vietnamese Students awarded by American Chamber of Commerce with acceptance rate is at 60/1000 with three assessment rounds based on  academic achievements, social activities and career aspiration.  <b style=\"float: right;\">2017</b>"
 
+
+    - type: id_experience
+      title: "Runner-up at CMA The future CFO" 
+      info:  "Achieved the scholarship for CMA certificate sponsored by IMA® (Institute of Management Accountants) <b style=\"float: right;\">2017</b>"
+      
+    - type: id_experience
+      title: "Scholarship for Foundation of Market Economy course" 
+      info:  "Awarded for dominant students and journalists fully sponsored by Friedrich-Naumann-Stiftung für die Freiheit and Viet Nam Institute for Economic and Policy Research <b style=\"float: right;\">2017</b>"
+
+    - type: id_experience
+      title: "Runner-up at Financial Banking Arena Contest" 
+      info:  "Naitonwide competition - Conducted financial investment analysis, research and financial modeling and valuations   <b style=\"float: right;\">2017</b>"
 
 
     - type: id_Skills
