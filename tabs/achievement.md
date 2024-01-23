@@ -96,6 +96,12 @@ page_data:
       info:  "<b>C/C++ Developer, DB Designer and SysAdmin</b> <b style=\"float: right;\">2019-2021</b><br><br/<b>Linux</b> and <b>Windows</b> development for Management UAV(Drone) Use-cases with the aid of <b>C++11</b>, <b>Qt</b>, <b>QML</b>, various <b>Database</b> technologies"
 
 
+    - type: id_Skills
+      title: "FE CREDIT (Vietnam Prosperity Bank – Sumitomo Mitsui Corporation)"
+      info: "Head of Portfolio Analytics & Management | Risk Management <b style=\"float: right;\">2022-2023</b><br>
+      Portfolio Analytics Manager | Risk Management<b style=\"float: right;\">2020-2022</b><br>
+      Management Associate | Collections | Risk Modeling | Business Intelligence |<b style=\"float: right;\">2018-2020</b>"
+
       
     - type: id_Skills
       title: "PriceWaterhouse<br>Coopers(PwC"
