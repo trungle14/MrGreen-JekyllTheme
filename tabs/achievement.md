@@ -97,12 +97,14 @@ page_data:
 
     - type: id_Skills
       title: "FE CREDIT (Vietnam Prosperity Bank – Sumitomo Mitsui Corporation)"
-      info:  "Head of Portfolio Analytics & Management | Risk Management <b style=\"float: right;\">2022-2023</b>
-      Portfolio Analytics Manager | Risk Management<b style=\"float: right;\">2020-2022</b>
+      info: |
+      "Head of Portfolio Analytics & Management | Risk Management <b style=\"float: right;\">2022-2023</b><br>
+      Portfolio Analytics Manager | Risk Management<b style=\"float: right;\">2020-2022</b><br>
       Management Associate | Collections | Risk Modeling | Business Intelligence |<b style=\"float: right;\">2018-2020</b>"
+
       
     - type: id_Skills
-      title: "PriceWaterhouseCoopers"
+      title: "PriceWaterhouse<br>Coopers(PwC"
       info:  "Financial Audit Intern <b style=\"float: right;\">2017-2018</b>"
 
 
