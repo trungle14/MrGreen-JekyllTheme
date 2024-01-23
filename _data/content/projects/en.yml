@@ -5,11 +5,12 @@
 page_data:
   main:
     header: "Data Science Projects"
-    info: "Our job is to extract signal from noise"
+    info: "Our job is to extract signal from noise. Find more projects of mine <a href='https://github.com/trungle14'>here</a>."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":heading project.jpg"
     back_color: "lightblue"
+    
 
   category:
     - title: "Cloud"
