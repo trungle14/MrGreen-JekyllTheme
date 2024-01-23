@@ -93,7 +93,7 @@ page_data:
       title: "FE CREDIT (Vietnam Prosperity Bank – Sumitomo Mitsui Corporation)"
       info: "Head of Portfolio Analytics & Management | Risk Management <b style=\"float: right;\">2022-2023</b><br>
       Portfolio Analytics Manager | Risk Management<b style=\"float: right;\">2020-2022</b><br>
-      Management Associate | Collections | Risk Modeling | Business Intelligence |<b style=\"float: right;\">2018-2020</b>"
+      Management Associate | Collections | Risk Modeling | Business Intelligence <b style=\"float: right;\">2018-2020</b>"
 
       
     - type: id_Skills
@@ -108,7 +108,7 @@ page_data:
     - type: id_projects
       title: "DETERMINANTS IMPACTING THE POSSIBILITIES OF INVESTORS’ RISK-TAKING: EMPIRICAL EVIDENCE FROM VIETNAM (click here)"
       url: "https://www.tandfonline.com/doi/full/10.1080/23322039.2021.1917106/"
-      info: "Determinants of the possibilities by investors’ risk-taking: Empirical evidence from Vietnam, Cogent Economics & Finance, 9:1, DOI: 10.1080/23322039.2021.1917106 <i><a href='https://www.tandfonline.com/doi/full/10.1080/23322039.2021.1917106/'>here</a></i>"
+      info: "Determinants of the possibilities by investors’ risk-taking: Empirical evidence from Vietnam, Cogent Economics & Finance, 9:1, DOI: 10.1080/23322039.2021.1917106 This study investigates risk perception, expected return and herding behavior, and other determinants such as historical volatility and subjective financial risk attitude; according to previous studies, these are the main components affecting risk-taking behavior among investors. Overconfidence (better than average, miscalibration, and excessive optimism) is also taken into consideration.<b style=\"float: right;\">2021</b> "
 
 
 
