@@ -37,6 +37,7 @@ img: ":about.jpg"
 <!-- {%- comment -%} Please delete below and place your page content here {%- endcomment -%} -->
 
 <!-- {%- include util/auto-content-generator.liquid -%} -->
-{{ "Just a guy more fascinated by extracting signals from noise than unraveling the mysteries of his crush"}}
+{{ "An analytics professional with 5+ years of work experience in banking/lending/consumer finance indsutry , in delivering data-driven actionable recommendations in consumer finance market leader. Proficient in building predictive models, business dashboards,complex data insights in a business-friendly language to ensure alignment and guide informed decision-making across departments
+• My education background/achievements and professional journey can be found here"}}
 
 <!-- {{ website_info_text_second }} -->
