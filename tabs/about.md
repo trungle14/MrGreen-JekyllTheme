@@ -37,9 +37,9 @@ img: ":about.jpg"
 <!-- {%- comment -%} Please delete below and place your page content here {%- endcomment -%} -->
 
 <!-- {%- include util/auto-content-generator.liquid -%} -->
-{{ "An analytics professional with 5+ years of work experience in banking/lending/consumer finance indsutry , in delivering data-driven actionable recommendations in consumer finance market leader. Proficient in building machine learning-based predictive models, business dashboards,complex data insights in a business-friendly language to ensure alignment and guide informed decision-making across departments\ 
-- [x] My Educational background, Academic Achievements and Professional Journey can be found in [Achievement tab]('https://trungle14.github.io/tabs/about.html')
-- [x] My high-level portfolio you can be easily found it on Projects tab. For an in-depth view of my portfolio, please visit my GitHub repository 
-- [x] My personal thoughts and sharing about my industry can be also found here "}}
+{{ "An analytics professional with 5+ years of work experience in banking/lending/consumer finance indsutry , in delivering data-driven actionable recommendations in consumer finance market leader. Proficient in building machine learning-based predictive models, business dashboards,complex data insights in a business-friendly language to ensure alignment and guide informed decision-making across departments. I am proficient in using SQL, R, Python, Spark, Google Cloud Platform (BigQuery, Vertex, LookerStudio), AWS (Sagemaker, EC2, S3). 
+- [x]  My Educational background, Academic Achievements and Professional Journey can be found in [Achievement tab]('https://trungle14.github.io/tabs/about.html')
+- [x]  My high-level portfolio you can be easily found it on [Projects tab]('https://trungle14.github.io/tabs/projects.html'). For an in-depth view of my portfolio, please visit my [GitHub repository]('https://github.com/trungle14') 
+- [x]  My personal thoughts and sharing about my industry can be also found in [Blog tab]('https://trungle14.github.io/tabs/blogs.html') "}}
 
 <!-- {{ website_info_text_second }} -->
