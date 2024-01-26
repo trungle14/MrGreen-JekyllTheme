@@ -119,7 +119,7 @@ The p-value of 0.998 suggests no significant insights from our test. While there
 Prior to conducting a Difference-in-Differences analysis, it's crucial to verify the existence of parallel trends beforehand. This step ensures that the differences we're comparing are, in fact, meaningful. If there's already a decreasing trend between the differences, it would hinder our ability to derive accurate insights.   
 
 ### Visualization of parallel trend
-```{r,fig.show = "hold", out.width = "60%"}
+```{r}
 temp1 = data %>%  filter(platform %in%  c('bing')) %>% select(week, total_traffic)
 temp2 = data %>%  filter(platform %in%  c('yahoo')) %>% select(week, total_traffic)
 temp3 = data %>%  filter(platform %in%  c('ask')) %>% select(week, total_traffic)
@@ -137,6 +137,7 @@ ggplot(data %>% filter(platform == 'goog'), aes(x=week, y= total_traffic, color 
   theme(legend.title = element_blank())
 ```
 
+<img width="630" alt="Screenshot 2024-01-25 at 23 12 03" src="https://github.com/trungle14/trungle14.github.io/assets/143222481/696dd200-67a6-47ea-a569-d0cf7b1e0bfa">
 
 
 The graph shows no parallel trends, but rather an increasing divergence until week 9, followed by a decrease in Google's click-through numbers compared to other platforms, indicating convergence. Therefore, while DiD analysis remains valuable, it requires cautious application and careful interpretation of the results.
