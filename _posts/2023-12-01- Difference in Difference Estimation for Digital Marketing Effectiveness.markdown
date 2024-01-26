@@ -7,7 +7,7 @@ title: " Difference in Difference Estimation for Digital Marketing Effectiveness
 # if not specified, .name will be used from _data/owner/[language].yml
 author: Trung Le
 # multiple category is not supported
-category: Sharing
+category: Statistics & Casuality 
 # multiple tag entries are possible
 tags: [jekyll, example post, sample, test]
 # thumbnail image for post
@@ -16,11 +16,11 @@ img: ":san diego.png"
 #comments_disable: true
 
 # publish date
-date: 2024-01-10 10:04:30 +0900
+date: 2023-10-10 10:04:30 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2024-01-10 10:04:30 +0900
+#meta_modify_date: 2023-10-10 10:04:30 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
