@@ -75,15 +75,16 @@ This network is designed to provide low latency and high reliability for data tr
 The emphasis on private fiber is a distinctive feature of Google's approach. 
 While AWS does use a mix of leased and owned infrastructure for its global network, may affect the network performance if it is not well-distributed among customers. 
 
-
+<p align="center">
 <img width="517" alt="Screenshot 2024-01-26 at 01 12 11" src="https://github.com/trungle14/trungle14.github.io/assets/143222481/898d0c6b-0e89-4a8c-951d-6b79b2312ba1">
+</p>
 
-TPU - Specialized Hardware Accelerators
+*TPU - Specialized Hardware Accelerators*
 GCP offers access to advanced hardware accelerators like Google's Tensor Processing Units (TPUs) and high-performance GPUs. especially those built with TensorFlow - Significant advantage of building models on GCP. While other cloud services AWS does not have it.
 
-Analyzing Sales Trends and Patterns:
+*Analyzing Sales Trends and Patterns:*
 By visualizing sales data over time, businesses can identify trends and patterns. This can help in forecasting demand, understanding seasonal fluctuations, and planning inventory accordingly.
-Dashboard Creation for Inventory Tracking:
+*Dashboard Creation for Inventory Tracking:*
 Looker Studio can be used to create interactive dashboards that display key inventory metrics such as stock levels, sales velocity, turnover rates, and backorder levels. These dashboards provide a quick visual reference to understand current inventory status.
 
 With all aforementioned advantages of GCP in E-Commerce Inventory Management our team would like create the project in order to put it in the next level with the desirable outcome is end-to-end pipeline for sales forecasting and real-time prediction integrated inventory management by BigQuery and Vertex AI in interactive dashboard on Looker Studio.
