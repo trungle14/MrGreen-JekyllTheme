@@ -43,7 +43,7 @@ date: 2024-01-10 10:04:30 +0900
 
 <!-- outline-start -->
 
- ***Before diving into Difference in Difference, let's start with small example, since I am a football lover, my question might be determining whether Lionel Messi's signing with FC Miami led to a rise in Florida's tourism, a trend that surpasses just a general increase in interest in Miami. We'll use this scenario to understand the impact of a significant sports event on tourism.***
+ ***In the context of e-commerce, businesses are often dealing with a complex and dynamic environment characterized by: High Volume of Transactions; Extensive Product Catalogs, Diverse Customer Base; Data-Driven Decision Making; Need for Personalization; Global Reach and Scalability; Supply Chain and Logistics Management.***
 
 *The DiD approach is typically utilized for evaluating the effects of large-scale policy changes or interventions. Examples include examining the influence of immigration policies on unemployment rates, the impact of changes in firearm laws on crime statistics, or evaluating how a marketing campaign affects user engagement. In these situations, there's always a timeframe before the intervention and one following it, where the goal is to discern the specific effects of the intervention from the overarching trend.*
 
@@ -52,6 +52,8 @@ date: 2024-01-10 10:04:30 +0900
 
 <!-- outline-end -->
 
-In the context of e-commerce, businesses are often dealing with a complex and dynamic environment characterized by: High Volume of Transactions; Extensive Product Catalogs, Diverse Customer Base; Data-Driven Decision Making; Need for Personalization; Global Reach and Scalability; Supply Chain and Logistics Management
 
-    <img src="https://github.com/trungle14/trungle14.github.io/assets/143222481/89af62dc-c7b6-4ca5-a3f4-87940602bc57" alt="E-commerce Context" width="514" class="center-image">
+    <p align="center">
+  <img width="514" alt="Screenshot 2024-01-25 at 23 38 09" src="https://github.com/trungle14/trungle14.github.io/assets/143222481/89af62dc-c7b6-4ca5-a3f4-87940602bc57">
+</p>
+
