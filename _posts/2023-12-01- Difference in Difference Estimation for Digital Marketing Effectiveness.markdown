@@ -137,7 +137,7 @@ ggplot(data %>% filter(platform == 'goog'), aes(x=week, y= total_traffic, color 
   theme(legend.title = element_blank())
 ```
 
-<img width="732" alt="Screenshot 2024-01-25 at 22 57 32" src="https://github.com/trungle14/trungle14.github.io/assets/143222481/e5a2d414-9a27-45c6-8f93-6ba7a7b9fab7">
+
 
 The graph shows no parallel trends, but rather an increasing divergence until week 9, followed by a decrease in Google's click-through numbers compared to other platforms, indicating convergence. Therefore, while DiD analysis remains valuable, it requires cautious application and careful interpretation of the results.
 
