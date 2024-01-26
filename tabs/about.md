@@ -41,7 +41,7 @@ img: ":about.jpg"
 - [x]  My Educational background, Academic Achievements and Professional Journey can be found in [Achievement tab]('https://trungle14.github.io/tabs/about.html')
 - [x]  My high-level portfolio you can be easily found it on [Projects tab]('https://trungle14.github.io/tabs/projects.html'). For an in-depth view of my portfolio, please visit my [GitHub repository]('https://github.com/trungle14') 
 - [x]  My personal thoughts and sharing about my industry can be also found in [Blog tab]('https://trungle14.github.io/tabs/blogs.html')\
-      ------------------------------------------------------------------------------
+      ------------------------------------------------------------------------------\
 *Just a guy finds joy in debugging code more than I anticipate a text from my crush, and I'm more patient waiting for a model to run than for their elusive reply* "}}
 
 <!-- {{ website_info_text_second }} -->
