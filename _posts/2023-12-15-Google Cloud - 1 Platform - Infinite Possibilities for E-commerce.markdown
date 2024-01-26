@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_did
+lng_pair: id_gcp
 title: " Google Cloud - 1 Platform - Infinite Possibilities for E-commerce 🛒"
 
 # post specific
