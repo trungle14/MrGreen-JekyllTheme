@@ -53,3 +53,10 @@ date: 2024-01-10 10:04:30 +0900
 {:data-align="center"}
 
 <!-- outline-end -->
+
+
+<p align="center">
+  <img width="514" alt="Screenshot 2024-01-25 at 23 38 09" src="https://github.com/trungle14/trungle14.github.io/assets/143222481/89af62dc-c7b6-4ca5-a3f4-87940602bc57">
+</p>
+
+{:data-align="center"}
