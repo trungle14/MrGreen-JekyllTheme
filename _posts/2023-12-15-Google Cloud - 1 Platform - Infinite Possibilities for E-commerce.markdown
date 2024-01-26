@@ -54,4 +54,4 @@ date: 2024-01-10 10:04:30 +0900
 
 In the context of e-commerce, businesses are often dealing with a complex and dynamic environment characterized by: High Volume of Transactions; Extensive Product Catalogs, Diverse Customer Base; Data-Driven Decision Making; Need for Personalization; Global Reach and Scalability; Supply Chain and Logistics Management
 
-<img width="514" alt="Screenshot 2024-01-25 at 23 38 09" src="https://github.com/trungle14/trungle14.github.io/assets/143222481/89af62dc-c7b6-4ca5-a3f4-87940602bc57">
+    <img src="https://github.com/trungle14/trungle14.github.io/assets/143222481/89af62dc-c7b6-4ca5-a3f4-87940602bc57" alt="E-commerce Context" width="514" class="center-image">
