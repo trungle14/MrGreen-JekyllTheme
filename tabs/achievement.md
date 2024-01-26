@@ -77,6 +77,21 @@ page_data:
     # Experience
 
     - type: id_experience
+      title: "Promotion to Unit Head of Portfolio Analytics and Management "
+      info:  "Got promoted to lead a seven-professional team, became the yougest unit head in the company, was in charge in managing 14M-customer base conduct well-considered analysis encompassing sales volume impact, system
+      capability and proposed initiatives to the Chief Risk Officer for flexible policy strategy aligned with risk appetite  <b style=\"float: right;\">2022</b>"
+
+    - type: id_experience
+      title: "Best Employee of the year 2020"
+      info:  "Awarded with top 5% performance of the company  <b style=\"float: right;\">2021</b>"
+
+    - type: id_experience
+      title: "Best Internal Data Mining Award"
+      info:  "Awarded and recognized with the most impactful new variables set based on internal sources  for new-to-bank customer credit assessment model   <b style=\"float: right;\">2019</b>"
+
+
+
+    - type: id_experience
       title: "Champion of Talent Generation Contest"
       info:  "National contest with the consecutive challenges as
       Academic knowledge, English ability, IQ & EQ, Numerical and Verbal reasoning test and business
