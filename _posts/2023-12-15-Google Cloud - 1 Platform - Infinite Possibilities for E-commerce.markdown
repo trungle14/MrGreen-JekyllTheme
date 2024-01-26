@@ -87,6 +87,6 @@ By visualizing sales data over time, businesses can identify trends and patterns
 *Dashboard Creation for Inventory Tracking:*
 Looker Studio can be used to create interactive dashboards that display key inventory metrics such as stock levels, sales velocity, turnover rates, and backorder levels. These dashboards provide a quick visual reference to understand current inventory status.
 
-With all aforementioned advantages of GCP in E-Commerce Inventory Management our team would like create the project in order to put it in the next level with the desirable outcome is end-to-end pipeline for sales forecasting and real-time prediction integrated inventory management by BigQuery and Vertex AI in interactive dashboard on Looker Studio.
-The project in high level is [here]('https://trungle14.github.io/tabs/projects.html')
-You can also refer the technical file, pressentation and flyers in [Github resporitory]('https://github.com/trungle14/GoogleCloud_InventoryManagement/tree/main'). 
+With all aforementioned advantages of GCP in E-Commerce Inventory Management our team would like create the project in order to put it in the next level with the desirable outcome is end-to-end pipeline for sales forecasting and real-time prediction integrated inventory management by BigQuery and Vertex AI in interactive dashboard on Looker Studio.\
+The project in high level is [here]('https://trungle14.github.io/tabs/projects.html')\
+You can also refer the technical file, presentation and flyers in [Github resporitory]('https://github.com/trungle14/GoogleCloud_InventoryManagement/tree/main'). 
