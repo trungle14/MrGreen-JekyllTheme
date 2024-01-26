@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_did
-title: " Google Cloud - 1 Platform - Infinite Possibilities for E-commerce"
+title: " Google Cloud - 1 Platform - Infinite Possibilities for E-commerce :shopping_cart:"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
