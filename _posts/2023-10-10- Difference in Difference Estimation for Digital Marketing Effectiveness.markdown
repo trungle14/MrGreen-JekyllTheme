@@ -7,7 +7,7 @@ title: " Difference in Difference Estimation for Digital Marketing Effectiveness
 # if not specified, .name will be used from _data/owner/[language].yml
 author: Trung Le
 # multiple category is not supported
-category: Statistics & Casuality 
+category: Statistics & Causality 
 # multiple tag entries are possible
 tags: [jekyll, example post, sample, test]
 # thumbnail image for post
