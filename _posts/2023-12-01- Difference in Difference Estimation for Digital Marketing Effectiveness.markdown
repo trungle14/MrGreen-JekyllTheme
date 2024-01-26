@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_did
-title: " Depth Matters: Exploring the Differences Between Shallow and Deep Neural Networks"
+title: " Difference in Difference Estimation for Digital Marketing Effectiveness"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -42,14 +42,26 @@ date: 2024-01-10 10:04:30 +0900
 
 <!-- outline-start -->
 
- ***Before diving into Difference in Difference, let's start with small example, since I am a football lover, my question could be how would I know the increase in tourism to Florida because of the Messi's contract with FC Miami,
- this increase is not just some natural trend in the awareness of Miami. Assessing the Impact of a Major Sporting Event on Tourism.***
-***Diff-in-diff is commonly used to assess the effect of macro interventions, like the effect of immigration on unemployment, the effect of gun law changes in crime rates or simply the difference in user engagement due to a marketing campaign. 
-In all these cases, you have a period before and after the intervention and you wish to untangle the impact of the intervention from a general trend.***
+ ***Before diving into Difference in Difference, let's start with small example, since I am a football lover, my question might be determining whether Lionel Messi's signing with FC Miami led to a rise in Florida's tourism, a trend that surpasses just a general increase in interest in Miami. We'll use this scenario to understand the impact of a significant sports event on tourism.***
 
-*Let's start*
+*The DiD approach is typically utilized for evaluating the effects of large-scale policy changes or interventions. Examples include examining the influence of immigration policies on unemployment rates, the impact of changes in firearm laws on crime statistics, or evaluating how a marketing campaign affects user engagement. In these situations, there's always a timeframe before the intervention and one following it, where the goal is to discern the specific effects of the intervention from the overarching trend.*
 
 
 {:data-align="center"}
 
 <!-- outline-end -->
+
+
+```{r}
+setwd ("/Users/Trung/Downloads")
+data = read.csv('did_sponsored_ads.csv')
+treatment_week = c(10,11,12)
+data <- data %>% mutate(treatment = ifelse(platform == 'goog',1,0),
+                       after = ifelse(week %in% treatment_week,1,0),
+                       total_traffic = avg_spons + avg_org)
+
+
+google_Ad = data %>% filter (platform=="goog")
+#Plotting the histogram for total clicks on Google
+hist(google_Ad$total_traffic)
+```
