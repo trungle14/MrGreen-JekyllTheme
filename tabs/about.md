@@ -38,7 +38,7 @@ img: ":about.jpg"
 
 <!-- {%- include util/auto-content-generator.liquid -%} -->
 {{ "An analytics professional with 5+ years of work experience in banking/lending/consumer finance indsutry , in delivering data-driven actionable recommendations in consumer finance market leader. My technical proficiency encompasses a range of tools and platforms crucial in the field of data analytics. I am skilled in SQL, R, Python, and Spark for data analysis and model development. Additionally, I have extensive experience with cloud platforms and services, including Google Cloud Platform (with a focus on BigQuery, Vertex AI, and LookerStudio), as well as AWS (specifically Sagemaker, EC2, and S3). This diverse skill set allows me to handle large datasets efficiently and implement scalable analytics solutions tailored to the dynamic needs of technology and finance sector.
-- [x]  My Educational background, Academic Achievements and Professional Journey can be found in [Achievement tab](/achievement)
+- [x]  My Educational background, Academic Achievements and Professional Journey can be found in [Achievement tab](/tabs/achievement)
 - [x]  My high-level portfolio you can be easily found it on [Projects tab]('https://trungle14.github.io/tabs/projects/'). For an in-depth view of my portfolio, please visit my [GitHub repository]('https://github.com/trungle14') 
 - [x]  My personal thoughts and sharing about my industry can be also found in [Blog tab]('https://trungle14.github.io/tabs/blog/')\
       ------------------------------------------------------------------------------\
