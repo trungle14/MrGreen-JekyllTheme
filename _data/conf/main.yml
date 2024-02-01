@@ -189,14 +189,15 @@ side_and_top_nav_buttons:
     icon: "fa fa-home"
   - about:
     icon: "fa fa-user-o"
-  - post-list:
-    icon: "fa fa-pencil-square-o"
-  #- archives:
-   # icon: "fa fa-archive"
   - projects:
     icon: "fa fa-cog"
   - links:
     icon: "fa fa-trophy"
+  - post-list:
+    icon: "fa fa-pencil-square-o"
+  #- archives:
+   # icon: "fa fa-archive"
+
 
 
 # side nav toggle feature
