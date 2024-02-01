@@ -38,8 +38,8 @@ img: ":about.jpg"
 
 <!-- {%- include util/auto-content-generator.liquid -%} -->
 {{ "An analytics professional with 5+ years of work experience in banking/lending/consumer finance indsutry , in delivering data-driven actionable recommendations in consumer finance market leader. My technical proficiency encompasses a range of tools and platforms crucial in the field of data analytics. I am skilled in SQL, R, Python, and Spark for data analysis and model development. Additionally, I have extensive experience with cloud platforms and services, including Google Cloud Platform (with a focus on BigQuery, Vertex AI, and LookerStudio), as well as AWS (specifically Sagemaker, EC2, and S3). This diverse skill set allows me to handle large datasets efficiently and implement scalable analytics solutions tailored to the dynamic needs of technology and finance sector.
-- [x]  My Educational background, Academic Achievements and Professional Journey can be found in [Achievement tab](/tabs/achievement/)\
-- [x]  My high-level portfolio you can be easily found it on [Projects tab](/tabs/projects/'. For an in-depth view of my portfolio, please visit my [GitHub repository]('/trungle14') 
+- [x]  My Educational background, Academic Achievements and Professional Journey can be found in [Achievement tab](/tabs/achievement.html)
+- [x]  My high-level portfolio you can be easily found it on [Projects tab](/tabs/projects.html'. For an in-depth view of my portfolio, please visit my [GitHub repository]('/trungle14') 
 - [x]  My personal thoughts and sharing about my industry can be also found in [Blog tab](/tabs/blog/)\
       ------------------------------------------------------------------------------\
 *Just a guy finds joy in debugging code more than I anticipate a text from my crush, and I'm more patient waiting for a model to run than for their elusive reply* "}}
